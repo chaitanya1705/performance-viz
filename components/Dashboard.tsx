@@ -318,6 +318,12 @@ export default function Dashboard() {
               <span className="font-medium">Updating data...</span>
             </div>
           )}
+
+          <footer className="mt-12 pt-8 border-t border-slate-800 dark:border-slate-800 light:border-slate-200 animate-fade-in">
+            <div className="text-center text-slate-400 dark:text-slate-400 light:text-slate-600 text-sm">
+              Built by <span className="font-semibold text-slate-300 dark:text-slate-300 light:text-slate-700">Chaitanya N</span>, <span className="font-mono">PES2UG22CS138</span> - <span className="font-medium">PES University</span>
+            </div>
+          </footer>
         </div>
       </div>
     </DataProvider>
