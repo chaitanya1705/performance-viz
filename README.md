@@ -46,7 +46,7 @@ npm install
 npm run dev
 ```
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser
+3. Open [https://performance-viz.vercel.app/](https://performance-viz.vercel.app/) in your browser
 
 ### Production Build
 
